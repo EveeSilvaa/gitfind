@@ -19,7 +19,7 @@
 }
 
 .input {
-    width: 80%;
+    width: 90%;
     min-width: 250px;
     /* height: 24px; */
     /* top: 81px; */
@@ -43,3 +43,36 @@
     font-size: 18px;
     pad: 10px;
 }
+
+.perfil {
+    display: flex;
+    margin: 40px 0;
+}
+
+.profile {
+    width: 64px;
+    height: 64px;
+    border-radius: 64px;
+    border: 2px solid #E5E5E5;
+    margin-right: 32px;
+}
+
+.perfil h3 {
+    color: #999999;
+    font-size: 24px;
+    margin: 0;
+}
+
+.perfil span {
+    display: block;
+    color: #999999;
+    font-size: 12px;
+    margin: 0;
+}
+
+.perfil p  {
+    color: #999999;
+    font-size: 12px;
+    margin: 20px;
+}
+
