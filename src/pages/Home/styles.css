@@ -3,7 +3,7 @@
 
    display: flex;
    align-items: flex-start; 
-   justify-content: flex-end;  /* posiciona mais para a direita*/
+   justify-content: flex-end;  /* position mais para a direita*/
 }
 
 .background {
@@ -21,6 +21,7 @@
 .input {
     width: 90%;
     min-width: 250px;
+    color: #ffffff;
     /* height: 24px; */
     /* top: 81px; */
     /* left: 249px; */
